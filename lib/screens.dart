@@ -1,0 +1,13 @@
+export 'screens/welcome_page.dart';
+export 'screens/login.dart';
+export 'screens/register.dart';
+export 'screens/home_page.dart';
+export 'screens/auth_setup.dart';
+export 'screens/select_login.dart';
+export 'screens/route_generator.dart';
+export 'Model/user_model.dart';
+export 'screens/conductor_home.dart';
+export 'screens/userType_select.dart';
+export 'provider/get_userData.dart';
+export 'package:chat_app/Model/passenger_model.dart';
+export 'package:chat_app/Model/conductor_model.dart';
